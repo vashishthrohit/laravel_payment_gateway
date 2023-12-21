@@ -79,7 +79,7 @@ class paymentController extends Controller
             $payUrl=$res->data->instrumentResponse->redirectInfo->url;
             
             // print_r($payUrl);
-            echo "<a href='".$payUrl."'>Pay Nown ygyg</a>";
+            echo "<a href='".$payUrl."'>Pay Nown ygyg kjbhk bkjhkj bjkbkj</a>";
             // header('Location:'.$payUrl) ;
         }
         }
